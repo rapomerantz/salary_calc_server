@@ -1,0 +1,29 @@
+I am going to need:
+
+[xxxx] lay out the HTML including table
+
+[xxxx] 5 input fields and a submit button
+
+[xx] Engage event listener to button,
+[xxx]use Button to pass the inputs of these fields into jQuery
+
+[xxx] These inputs will need to feed an object Constructor
+
+[xxx] The object constructor should push to an array
+
+I should have a function that loop through the array and pushes each attribute
+of an object to a table
+
+The table should be appended with each submit
+
+When a new employee is added the fields must clear
+
+There should be a running total of the .annualSalary attribute
+This total should be updated upon submitClick
+
+I will need an if/else to see if total of all annualSalaries is greater than 20,000
+- if it is, CSS styes must be changed to a red background
+
+~~~~~~~~~~~~
+FOR HARD MODE
+an additional button will need to be added to the table to delete (i.e. hide) an employee

@@ -1,0 +1,56 @@
+body {
+  background-color: Gainsboro;
+  font-family: courier;
+}
+
+h2 {
+  font-size: 20px;
+  padding: 14px;
+}
+
+table, th, td {
+    border: 1px solid slategrey;
+    font-size: 20px;
+    text-align: center;
+}
+
+td {
+  background-color: #f1f3f4;
+
+}
+
+.removeButton {
+  padding: 5px;
+  margin: 2px;
+
+}
+
+input {
+  width: 30%;
+}
+
+#inputsDiv input {
+  width: 91%;
+  padding: 10px;
+  margin: 3px;
+  background-color: #f1f3f4;
+  border-radius: 5px;
+  border: 1px double slategrey;
+
+}
+
+#inputsDiv button {
+  width: 100%;
+  padding: 10px;
+  margin: 3px;
+  background-color: #f1f3f4;
+  border-radius: 5px;
+  border: 1px solid slategrey;
+  text-align: left;
+
+}
+
+#errorMessage {
+  font-size: 15px;
+  margin-left: 1%;
+}
